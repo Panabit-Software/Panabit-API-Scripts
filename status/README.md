@@ -20,6 +20,5 @@ This directory contains various scripts that retrieve device operational status 
 目前子目录：  
 Current Subdirectories:
 
-- [`flow_prometheus`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/status/flow_prometheus/README.md)：接口流量采集脚本（Prometheus 格式）
-- [`flow_prometheus`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/status/flow_prometheus/README.md)：Interface traffic collection scripts (Prometheus Format)
+- [`flow_prometheus`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/status/flow_prometheus/README.md)：接口流量采集脚本（Prometheus 格式）|Interface traffic collection scripts (Prometheus Format)
 
