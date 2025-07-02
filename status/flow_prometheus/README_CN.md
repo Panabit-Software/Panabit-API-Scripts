@@ -20,8 +20,7 @@
 - 可配合 `node_exporter` 的 `textfile` 模块使用
 
 ## 📦 脚本位置  
-- `panabit_flow_export.php`
-
+- [`panabit_flow_export.php`](panabit_flow_export.php)
 ## ⚙ 使用方法
 
 ### 1. 修改配置项  
