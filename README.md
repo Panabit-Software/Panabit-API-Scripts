@@ -10,9 +10,9 @@ This repository collects various scripts based on the Panabit Intelligent Gatewa
 
 ## Modules
 
-- `status/` – Device status monitoring (e.g., interface traffic, CPU load)
-- `acl/` – API-based ACL deployment and policy management (in development)
-- `utils/` – Common utility functions and API request wrappers (placeholder)
+- `status` – Device status monitoring (e.g., interface traffic, CPU load)
+- `acl` – API-based ACL deployment and policy management (in development)
+- `utils` – Common utility functions and API request wrappers (placeholder)
 
 ## Getting Started
 
