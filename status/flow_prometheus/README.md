@@ -7,11 +7,11 @@ This is a lightweight PHP script that retrieves upstream and downstream interfac
 
 ## 🧰 Use Cases |使用场景 
 
-- Integrate Panabit device metrics into a centralized Prometheus monitoring system  
-- Visualize and alert on traffic usage of key interfaces  
+- Integrate Panabit device metrics into a centralized Prometheus monitoring system
+- 将 Panabit 设备状态数据接入统一的 Prometheus 监控体系 
+- Visualize and alert on traffic usage of key interfaces
+- 实现关键接口流量的可视化与告警 
 - Collect operational metrics using standard tools without complex development  
-- 将 Panabit 设备状态数据接入统一的 Prometheus 监控体系  
-- 实现关键接口流量的可视化与告警  
 - 使用标准工具采集设备运行指标，无需复杂开发
 
 ## 🔁 Script Features |脚本功能 
