@@ -20,6 +20,6 @@ This directory contains various scripts that retrieve device operational status 
 目前子目录：  
 Current Subdirectories:
 
-- [`flow_prometheus`]()：接口流量采集脚本（Prometheus 格式）  
-  `flow_prometheus` — Interface traffic collection scripts (Prometheus Format)
+- [`flow_prometheus`](status/flow_prometheus/README.md)：接口流量采集脚本（Prometheus 格式）
+- [`flow_prometheus`](status/flow_prometheus/README.md)：Interface traffic collection scripts (Prometheus Format)
 
