@@ -22,6 +22,8 @@ This is a lightweight PHP script that retrieves upstream and downstream interfac
 
 ## 📦 Script File  
 - [`panabit_flow_export.php`](status/flowprometheus/panabit_flow_export.php)
+- [`panabit_flow_export.php`](status/flow%20prometheus/panabit_flow_export.php)
+
 
 ## ⚙ Usage
 
