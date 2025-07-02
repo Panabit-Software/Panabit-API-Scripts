@@ -3,7 +3,7 @@
 
 ## Overview |简介
 This is a lightweight PHP script that retrieves upstream and downstream interface traffic (in bps) from the Panabit Intelligent Gateway using its RESTful API. The collected data is exported in a Prometheus-compatible text format for scraping.  
-这是一个轻量级的 PHP 脚本工具，基于 Panabit 智能应用网关的 RESTful API，定时获取指定接口的上下行速率（bps），并以 Prometheus 兼容格式输出到文本文件，供监控系统采集使用。
+这是一个轻量级的 PHP 脚本工具，基于 Panabit 智能应用网关的 RESTful API，定时获取指定接口的上下行速率（bps），并以 Prometheus 兼容格式输出到文本文件，供Prometheus采集使用。
 
 ## 🧰 Use Cases |使用场景 
 
