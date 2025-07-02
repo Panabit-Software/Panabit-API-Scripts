@@ -1,17 +1,25 @@
-<p>
-<a href="README_CN.md">中文<a/>|  English   
-</p>
 
+# status — 设备运行状态采集脚本 
 # status — Device Status Collection Scripts
 
+本目录用于存放通过 Panabit RESTful API 获取设备运行状态的各类脚本，包括但不限于：  
 This directory contains various scripts that retrieve device operational status via the Panabit RESTful API. These scripts cover, but are not limited to:
 
-- Interface bandwidth (upstream and downstream rates)
-- CPU usage
-- Connection statistics
-- System load information
+- 接口上下行速率  
+  Interface bandwidth (upstream and downstream rates)
 
-### Current Subdirectories
+- CPU 使用率  
+  CPU usage
 
-- `flow_prometheus` — Interface traffic collection scripts in Prometheus format
+- 连接数统计  
+  Connection statistics
+
+- 系统负载信息  
+  System load information
+
+目前子目录：  
+Current Subdirectories:
+
+- `flow_prometheus`：接口流量采集脚本（Prometheus 格式）  
+  `flow_prometheus` — Interface traffic collection scripts in Prom_
 
