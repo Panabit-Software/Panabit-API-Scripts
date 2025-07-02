@@ -21,7 +21,6 @@ This is a lightweight PHP script that retrieves upstream and downstream interfac
 - Compatible with `node_exporter`'s `textfile` collector
 
 ## 📦 Script File  
-- [`panabit_flow_export.php`](status/flowprometheus/panabit_flow_export.php)
 - [`panabit_flow_export.php`](status/flow_prometheus/panabit_flow_export.php)
 
 
