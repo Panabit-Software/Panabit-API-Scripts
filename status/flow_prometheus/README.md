@@ -18,7 +18,7 @@ This is a lightweight PHP script that retrieves upstream and downstream interfac
 - Automatically logs into the Panabit gateway via RESTful API to obtain an access token
 - 通过 RESTful API 自动登录 Panabit 网关并获取 token  
 - Polls interface data every 5 seconds
-- 每 5 秒轮询一次接口数据  
+- 每 5 秒轮询一次设备状态 
 - Retrieves interface bandwidth usage (in bps)
 - 获取接口的上下行速率（单位：bps）  
 - Outputs data in Prometheus `textfile` format
