@@ -1,3 +1,7 @@
+<p>
+<a href="README_CN.md">中文<a/>|  English   
+</p>
+
 # Panabit API Scripts
 
 This repository collects various scripts based on the Panabit Intelligent Gateway's RESTful API. It is designed to help users achieve automated configuration, status monitoring, and system integration.
