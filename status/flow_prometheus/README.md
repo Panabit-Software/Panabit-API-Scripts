@@ -59,7 +59,7 @@ Use with `node_exporter`'s `textfile` module. Example:
 推荐结合 `node_exporter` 的 `textfile` 模块使用。示例如下：
 
 **Start `node_exporter` with:**  
-**启动 `node_exporter` 添加参数：**
+**启动  `node_exporter`  添加参数：**
 
 ```bash
 --collector.textfile.directory=/tmp
