@@ -30,6 +30,19 @@ This is a lightweight PHP script that retrieves upstream and downstream interfac
 - [`panabit_flow_export.php`](panabit_flow_export.php)  
 
 
+## 🔐Enabling Panabit API Service (Prerequisite) | 启用 Panabit API 服务（前置条件）
+
+The scripts rely on Panabit's RESTful API. Please make sure the API service is enabled on the device:  
+脚本使用 Panabit 的 RESTful API 接口，需确保设备已开启 API 服务：
+
+1. Log in to the device's Web UI → System Maintenance → System Settings → Web Settings  
+   登录设备 WEB UI → 系统维护 → 系统设置 → WEB设置  
+
+2. Enable the "WEB API Interface" option  
+   选择开启 “WEB API接口”
+
+
+
 ## ⚙ Usage  |使用方法
 ### 1. Edit Configuration  |修改配置项
 Open the script and modify the following 5 parameters at the top:  
