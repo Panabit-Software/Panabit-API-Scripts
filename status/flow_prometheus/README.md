@@ -40,7 +40,7 @@ The scripts rely on Panabit's RESTful API. Please make sure the API service is e
 
 2. Enable the "WEB API Interface" option  
    选择开启 “WEB API接口”
-
+![Enable Web API Interface](Web_API_INTERFACE.png)
 
 
 ## ⚙ Usage  |使用方法
