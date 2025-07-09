@@ -49,9 +49,9 @@ It supports scheduled execution and enables dynamic maintenance of millions of t
 ### Configuration  |配置
 
 Edit the desired script (`panabit_domain_sync.py` or `panabit_ip_sync.py`) and fill in the `CONFIG` section:
-打开你想要运行的脚本文件（`Panabit_domain_sync.py` 或 `Panabit_ip_sync.py`），修改 `CONFIG` 字典中的参数以适应你的环境：
-#### Domain Sync Example (`panabit_domain_sync.py`)  
-#### 域名同步脚本 (`panabit_domain_sync.py`) 配置示例
+打开你想要运行的脚本文件（ [(`panabit_domain_sync.py`)](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_domain_sync.py) 或 [(`panabit_ip_sync.py`)](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_ip_sync.py)  ，修改 `CONFIG` 字典中的参数以适应你的环境：
+#### Domain Sync Example ([`panabit_domain_sync.py`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_domain_sync.py))  
+#### 域名同步脚本  ([`panabit_domain_sync.py`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_domain_sync.py)) 配置示例
 
 ```python
 CONFIG = {
@@ -63,8 +63,8 @@ CONFIG = {
 }
 ```
 
-#### IP Sync Example (`panabit_ip_sync.py`)  
-#### IP 地址同步脚本 (`panabit_ip_sync.py`) 配置示例
+#### IP Sync Example [(`panabit_ip_sync.py`)](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_ip_sync.py)  
+#### IP 地址同步脚本[(`panabit_ip_sync.py`)](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/sync_tools/Panabit_ip_sync.py)   配置示例
 
 ```python
 CONFIG = {
