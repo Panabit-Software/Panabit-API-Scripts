@@ -13,7 +13,7 @@ This repository collects various scripts based on the Panabit Intelligent Gatewa
 - [`status`](https://github.com/Panabit-Software/Panabit-API-Scripts/blob/main/status/README.md) – Device status monitoring (e.g., interface traffic, CPU load)  
   设备运行状态采集（如接口流量、CPU 负载）
 
-- [`sync_tools`](sync_tools/README.md) – API-based ACL deployment and policy management 
+- [`sync_tools`](sync_tools/README.md) – API-based ACL deployment and policy management          
   基于 API 的 ACL 下发、策略管理
 
 - `utils` – Common utility functions and API request wrappers (in developement)  
